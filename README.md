@@ -265,17 +265,14 @@ restaurant-operations-revenue-analytics/
 │
 ├── README.md
 ├── restaurant_operations_revenue_analytics.ipynb
-│
 ├── assets/
-│   ├── 01_active_contracts_over_time.png
-│   ├── 02_new_vs_churned_contracts.png
-│   ├── 03_top_restaurants_current_gmv.png
-│   ├── 04_peak_contract_density_by_facility.png
-│   ├── restaurant_ops_region_treemap.png
-│   └── restaurant_ops_churn_rate_over_time.png
-│
-└── data/
-    └── processed_data.csv
+   ├── 01_active_contracts_over_time.png
+   ├── 02_new_vs_churned_contracts.png
+   ├── 03_top_restaurants_current_gmv.png
+   ├── 04_peak_contract_density_by_facility.png
+   ├── restaurant_ops_region_treemap.png
+   └── restaurant_ops_churn_rate_over_time.png
+
 ```
 
 ---
